@@ -1,0 +1,12 @@
+{
+    "name": "ridict"
+  , "version": "0.0.1"
+  , "description": "Node implementation of the Regressive Imagery Dictionary and matching functions"
+  , "main": "./lib/rid"
+  , "author": "Joshua Frankamp"
+  , "repository" :
+  {   "type" : "git"
+    , "url" : "https://github.com/frankamp/node-ridict.git"
+  }
+  , "bugs" : { "url" : "https://github.com/frankamp/node-ridict/issues" }
+}
